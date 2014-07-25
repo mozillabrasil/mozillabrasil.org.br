@@ -1,24 +1,37 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Comunidade Mozilla Brasil</title>
-    <link href="//mozorg.cdn.mozilla.net/media/css/tabzilla-min.css" rel="stylesheet" />
-    <link href="style.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" media="print" href="css/print.css">
+<html lang="pt-BR" id="mozilla-blog">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!--[if lt IE 9]>
-      <script src="js/html5shiv.js"></script>
-    <![endif]-->
-    <!--[if lte IE 7]><link rel="stylesheet" type="text/css" media="all" href="css/ie7.css"><![endif]-->
-  </head>
-  <body>
-    <div id="page">
+  <!--[if IE]>
+  <meta name="MSSmartTagsPreventParsing" content="true">
+  <meta http-equiv="imagetoolbar" content="no">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <script src="js/html5.js"></script>
+  <![endif]-->
+
+  <link rel="shortcut icon" type="image/ico" href="img/favicon.ico">
+
+  <link rel="stylesheet" type="text/css" media="screen,projection" href="style.css">
+  <link rel="stylesheet" type="text/css" media="all" href="https://www.mozilla.org/tabzilla/media/css/tabzilla.css">
+  <link rel="stylesheet" type="text/css" media="print" href="css/print.css">
+  <!--[if lte IE 7]><link rel="stylesheet" type="text/css" media="all" href="css/ie7.css"><![endif]-->
+
+  <title>Comunidade Mozilla Brasil</title>
+
+  <style type="text/css">
+    #masthead { background-image: url(img/mozbrlogo.png); }
+  </style>
+
+</head>
+
+<body>
+
+	<div id="page">
       <div class="wrap">
         <a href="/en-US/" id="tabzilla">mozilla</a>
-        <header id="masthead" role="banner">          
+        <header id="masthead" role="banner" style="padding-bottom:0!important;">          
           <hgroup>
             <h1 id="site-title">Mozilla Brasil</h1>
             <h2 id="site-description">Nós acreditamos na Web aberta!</h2>
@@ -32,9 +45,33 @@
             </ul>
           </nav>
         </header>
+
+    <section id="mozilla" class="billboard products" style="padding-left: 20px;padding-top:0;">
+		<ul>
+			<li>
+				<a href="/pt-BR/persona/">
+					<img src="//mozorg.cdn.mozilla.net/media/img/products/badge-firefox.jpg" alt="">
+					<h3>Blog</h3>
+				</a>
+			</li>
+			<li>
+				<a href="https://webmaker.org">
+					<img src="//mozorg.cdn.mozilla.net/media/img/products/badge-webmaker.jpg" alt="">
+					<h3>Webmaker Brasil</h3>
+				</a>
+			</li>
+			<li>
+				<a href="/pt-BR/thunderbird/">
+					<img src="//mozorg.cdn.mozilla.net/media/img/products/badge-firefoxos.jpg" alt="">
+					<h3>Planet</h3>
+				</a>
+			</li>
+		</ul>
+	</section>
+    
       </div>
     </div>
-
+    
 	<footer id="site-info" role="contentinfo">
 		<div class="wrap">
 			<p id="foot-logo">
@@ -56,5 +93,5 @@
 	</footer>
     
     <script src="//mozorg.cdn.mozilla.net/tabzilla/tabzilla.js"></script>
-  </body>
+</body>
 </html>

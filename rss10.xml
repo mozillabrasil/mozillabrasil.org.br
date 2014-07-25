@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns="http://purl.org/rss/1.0/"
+>
+<channel rdf:about="http://localhost/mozilla/planet-webmaker/mozilla-br/public/">
+	<title>Comunidade Mozilla Brasil</title>
+	<link>http://localhost/mozilla/planet-webmaker/mozilla-br/public/</link>
+	<description>Comunidade Mozilla Brasil - http://localhost/mozilla/planet-webmaker/mozilla-br/public/</description>
+
+	<items>
+		<rdf:Seq>
+			<rdf:li rdf:resource="http://www.mozillabrasil.org.br/?p=1335" />
+			<rdf:li rdf:resource="http://andregarzia.com/posts/pt/sobreeme" />
+		</rdf:Seq>
+	</items>
+</channel>
+
+<item rdf:about="http://www.mozillabrasil.org.br/?p=1335">
+	<title>Mozilla Brasil: Festa de lançamento do novo Firefox</title>
+	<link>http://www.mozillabrasil.org.br/2014/05/festa-de-lancamento-do-novo-firefox/</link>
+	<content:encoded>&lt;p&gt;&lt;a href=&quot;http://www.mozillabrasil.org.br/wp-content/uploads/2014/05/10313698_710373179004769_1318804352432714841_n.jpg&quot;&gt;&lt;img class=&quot;aligncenter size-large wp-image-1336&quot; src=&quot;http://www.mozillabrasil.org.br/wp-content/uploads/2014/05/10313698_710373179004769_1318804352432714841_n-600x286.jpg&quot; alt=&quot;Launch Party&quot; width=&quot;600&quot; height=&quot;286&quot; /&gt;&lt;/a&gt;A décima quinta edição do Fórum Internacional de Software Livre (FISL) contou com uma atividade especial em sua grade oficial, a festa de lançamento do novo Firefox. O evento, que aconteceu na área de exposição dos grupos de usuários na tarde de sexta-feira, contou com a participação de mais de 1000 pessoas que se dividiram entre participantes do evento e a comunidade local.&lt;a href=&quot;http://www.mozillabrasil.org.br/wp-content/uploads/2014/05/Launch-Pontes.jpg&quot;&gt;&lt;img class=&quot;size-large wp-image-1339&quot; src=&quot;http://www.mozillabrasil.org.br/wp-content/uploads/2014/05/Launch-Pontes-600x400.jpg&quot; alt=&quot;Foto: Ricardo Pontes&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Foto: Ricardo Pontes&lt;/p&gt;
+&lt;p&gt;Os participantes puderam conversar, tirar dúvidas, entender como a comunidade da Mozilla funciona e claro, conhecer os benefícios que a última atualização do Firefox trouxe. Além de serem convidados instalar a última versão do navegador em seus dispositivos, eles puderam participar de brincadeiras sobre o novo Firefox e a Mozilla e sorteio de brindes. Quem passou por lá também pode aproveitar para matar sua fome com salgados, doces e refrigerante.&lt;a href=&quot;http://www.mozillabrasil.org.br/wp-content/uploads/2014/05/doces-Naian-Meneghetti.jpg&quot;&gt;&lt;img class=&quot;size-large wp-image-1340&quot; src=&quot;http://www.mozillabrasil.org.br/wp-content/uploads/2014/05/doces-Naian-Meneghetti-600x400.jpg&quot; alt=&quot;Foto: Naian Meneghetti&quot; width=&quot;600&quot; height=&quot;400&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Foto: Naian Meneghetti&lt;/p&gt;
+&lt;p&gt;Outro atrativo do evento foi o photo booth, onde os participantes puderam completar a frase “Meu Firefox nunca esteve tão…” com elogios divertidos à nova versão do navegador e compartilhar a foto em seus perfis de redes sociais. O mascote da Mozilla, Fox, também esteve presente, tirou fotos, dançou e animou a todos.&lt;a href=&quot;http://www.mozillabrasil.org.br/wp-content/uploads/2014/05/pb2.png&quot;&gt;&lt;img class=&quot;aligncenter size-large wp-image-1341&quot; src=&quot;http://www.mozillabrasil.org.br/wp-content/uploads/2014/05/pb2-600x600.png&quot; alt=&quot;pb2&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;&lt;strong&gt;Confira algumas curiosidades sobre a festa:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hashtags utilizadas&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;#firefox #firefoxbrasil&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Em Números:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mais de 1000 pessoas passaram pela festa.&lt;/li&gt;
+&lt;li&gt;Mais de 400 pessoas se inscreveram para participar do sorteio.&lt;/li&gt;
+&lt;li&gt;Mais de 200 pessoas participaram de uma brincadeira com perguntas sobre o novo Firefox valendo brindes&lt;/li&gt;
+&lt;li&gt;Instalações durante o evento:&lt;/li&gt;
+&lt;li&gt;Aproximadamente 20 Firefox para Android&lt;/li&gt;
+&lt;li&gt;Aproximadamente 10 Firefox para desktop (a maioria dos participantes já possuía o navegador instalado e atualizado em sua máquina)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Vários brindes distribuídos para os participantes:
+&lt;ul&gt;
+&lt;li&gt;Dezenas de lanyards&lt;/li&gt;
+&lt;li&gt;Centenas de adesivos do Firefox e Firefox OS&lt;/li&gt;
+&lt;li&gt;Várias camisetas para quem participou do quiz&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Aproximadamente 30 membros da comunidade auxiliando na montagem, desmontagem e realização do evento&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;O que rolou durante o evento:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conversas sobre o novo Firefox, Firefox para Android, Firefox OS, Webmaker, Sumo&amp;#8230;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Conversas sobre outros projetos da Mozilla.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Distribuição de material divulgando diversos projetos da Mozilla, como Firefox os, Firefox Student Ambassadors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Vídeos sobre o processo de criação da versão mais recente do Firefox, Web We Want, e &amp;#8220;What Does the Fox Say&amp;#8221;!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Photo booth para os participantes da festa compartilharem que participaram da festa em redes sociais, mais de 50 fotos foram postadas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Presença da Fox animando os participantes e tirando fotos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Fica aqui o agradecimento a todos os participantes e em especial a toda comunidade Mozilla Brasil, sem vocês nada disso teria acontecido. :D&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a title=&quot;Fotos da festa&quot; href=&quot;https://www.facebook.com/media/set/?set=a.712302528811834.1073741827.201846359857456&amp;type=3&quot; target=&quot;_blank&quot;&gt;Clique aqui para conferir mais fotos da festa.&lt;/a&gt;&lt;br /&gt;
+&lt;a title=&quot;Fotos do photo booth&quot; href=&quot;https://www.facebook.com/media/set/?set=a.712295382145882.1073741826.201846359857456&amp;type=3&quot; target=&quot;_blank&quot;&gt;Clique aqui para ver as fotos do photo booth.&lt;/a&gt;&lt;br /&gt;
+&lt;a title=&quot;photo booth&quot; href=&quot;http://marcussaad.github.io/launchparty-photobooth/&quot; target=&quot;_blank&quot;&gt;Clique aqui para acessar o photo booth e montar agora mesmo a sua foto.&lt;/a&gt;&lt;/p&gt;</content:encoded>
+	<dc:date>2014-05-15T20:27:21+00:00</dc:date>
+</item>
+<item rdf:about="http://andregarzia.com/posts/pt/sobreeme">
+	<title>Mozilla Brasil: Pensando sobre EME/DRM</title>
+	<link>http://andregarzia.com/posts/pt/sobreeme</link>
+	<content:encoded>&lt;p&gt;Acho que a galera nas interwebs está confundindo fumaça com fogo.&lt;/p&gt;
+&lt;p&gt;Pra quem não leu como vai funcionar o lance do DRM: O Firefox vai ter uma sandbox para rodar o blob. O blob não vai vir instalado no Firefox. O blob não tera acesso a nada do hardware e não poderá ser utilizado para fazer fingerprint. O código fonte do sandbox é open e você poderá compila-lo separadamente se quiser ter certeza que o seu sandbox não foi macumbado pela NSA.&lt;/p&gt;
+&lt;p&gt;Se você não utilizar os serviços que usam DRM tais como Netflix, Hulu e Amazon então seu Firefox continua livre do dito blob. Se você quiser utilizar esses serviços então você autoriza a instalação do blob de DRM quando você vai assistir alguma coisa.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;As plugins today, the CDM itself will be distributed by Adobe and will not be included in Firefox. The browser will download the CDM from Adobe and activate it based on user consent.&amp;quot; &amp;#8212; Andreas Gal, Mozilla CEO in &lt;a href=&quot;https://hacks.mozilla.org/2014/05/reconciling-mozillas-mission-and-w3c-eme/&quot;&gt;Reconciling Mozilla’s Mission and W3C EME&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Se você é daqueles que são contra DRM na web então em vez de ficar brigando para não ter os hooks no Firefox basta não utilizar os tais serviços. Se você é daqueles que quer assistir os tais videos na internet então você tem a única sandbox open source incapaz de fazer fingerprint. Continua melhor que as alternativas.&lt;/p&gt;
+&lt;p&gt;&lt;!-- Read more --&gt;&lt;/p&gt;
+&lt;p&gt;O lance é que os provedores de conteúdo estão se movendo para o EME/DRM. Esse tipo de coisa não da para fazer com plugin pelo que nego da mozilla me disse no MWC. O Firefox vem com o EME mas não vem com o DRM, o módulo da Adobe de DRM só é instalado para quem quer utilizar algum serviço que utilize essa bagaça.&lt;/p&gt;
+&lt;p&gt;Ou seja, se você quer lutar por uma web livre, pare de consumir os tais serviços. Mostre suas convicções com a carteira. Todo mundo que está contra essa bagaça esquece que é uma escolha usa usar ou não. É a mesma coisa de ter um carro. Você pode usar o carro para passar em cima das pessoas mas você faz isso se quiser e sofre as consequências. Ai vem gente gritando que ninguém pode ter carro pois isso abre brecha para passar em cima das pessoas. Tipo: &amp;quot;Você não pode comer bacon pois eu sou vegetariano&amp;quot;. Quem é contra o EME/DRM basta não usar os serviços e fica tudo bem. A presença da implementação de EME sem o blob não é maligna por sí só. É só código inativo para quem não usa a bagaça&amp;#8230;&lt;/p&gt;
+&lt;p&gt;A alternativa seria não suportar e ai toda vez que cair uma pergunta para o exército dos incríveis tipo: &amp;quot;como faço para assistir netflix no meu Firefox&amp;quot; vc responder com &amp;quot;Instala o Chrome ou o IE&amp;quot;. É essa a alternativa? Pq ninguém aqui e nem a Mozilla pode forçar os produtores de conteúdo a utilizar outra tecnologia. Podemos não gostar e não utilizar mas cortar dos usuários que querem utilizar a chance de poder fazê-lo é de uma arrogância e egoísmo incríveis tipo &amp;quot;nós somos moralmente contra o DRM portanto estamos limitando sua capacidade de escolher o que fazer independente da sua vontade&amp;quot;. O Firefox continua sendo o único navegador desenvolvido as claras por uma comunidade que acredita em uma web aberta, as vezes a gente se fode e não pode fazer tudo da maneira que a gente quer.&lt;/p&gt;
+&lt;p&gt;Garanto que ninguém aqui que precisar fazer um exame médico em um equipamento totalmente proprietário vai se recusar pois o equipamento não é GNU e abençoado pela FSF. Quero ver alguém dizer: &amp;quot;Não põe esse marcapasso em mim pois não sei o que tem no micro código dele&amp;quot;. Ou &amp;quot;tira esse piloto automático e telemetria do avião pois tem DRM&amp;quot;. As vezes a gente perde a batalha. Eu também queria que o watermark ganhasse. Eu sou contra o DRM mas em vez de quere um Firefox sem ele, eu prefiro deixar cada pessoa escolher o que usar. Eu tenho um Kindle. Ele é entupido com DRM. Em vez de comprar livros mais baratos com DRM na Amazon, prefiro comprar direto na O'Reilly em formatos abertos. O DRM do Kindle não me afeta e eu mostro com meu dinheiro onde estão minhas convicções.&lt;/p&gt;
+&lt;p&gt;A galera age como se de repente o Firefox tivesse morrido, como se fosse uma traição imensa que vai contra o que o usuário quer. Lembrem-se sem marketshare a mozilla perde força política. A batalha desse DRM foi perdida mas a guerra por uma web melhor continua. A gente não ganha sempre. Em um mundo de apps proprietários, escutas, monocultura de webkit, justin bieber, protocolos fechados e outros terrores, esse sandbox não é o maior dos monstros.&lt;/p&gt;</content:encoded>
+	<dc:date>2014-05-15T15:24:43+00:00</dc:date>
+</item>
+
+</rdf:RDF>
