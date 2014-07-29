@@ -1,0 +1,33 @@
+title: Mozilla Brasil
+email: comunidade@mozillabrasil.org.br
+description: "Site oficial da comunidade Mozilla Brasil - Nós acreditamos na Web aberta!"
+url: "http://localhost/mozillabrasil/_site"
+timezone: America/Sao_Paulo
+encoding: utf-8
+
+markdown: kramdown
+permalink: pretty
+
+# links:
+#  - title: Theme Setup
+#    url: /theme-setup
+#  - title: External Link
+#    url: http://samuelmoraes.com
+#    external: true
+
+links:
+  - title: Sobre
+    url: /sobre
+  - title: Missão
+    url: https://www.mozilla.org/mission/
+    external: true
+  - title: Participe
+    url: /participe
+  - title: Contato
+    url: /contato
+  - title: Wiki
+    url: http://wiki.mozilla.org/Brasil
+    external: true
+  - title: Eventos
+    url: http://wiki.mozilla.org/Brasil/Eventos
+    external: true

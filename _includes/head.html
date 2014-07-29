@@ -1,0 +1,28 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!--[if IE]>
+  <meta name="MSSmartTagsPreventParsing" content="true">
+  <meta http-equiv="imagetoolbar" content="no">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <script src="{{ site.url }}/js/html5.js"></script>
+  <![endif]-->
+
+  <meta name="description" content="{{ site.description }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+  <link rel="shortcut icon" type="image/ico" href="{{ site.url }}/img/favicon.ico">
+
+  <link rel="stylesheet" type="text/css" media="screen,projection" href="{{ site.url }}/style.css">
+  <link rel="stylesheet" type="text/css" media="all" href="https://www.mozilla.org/tabzilla/media/css/tabzilla.css">
+  <link rel="stylesheet" type="text/css" media="print" href="{{ site.url }}/css/print.css">
+  <!--[if lte IE 7]><link rel="stylesheet" type="text/css" media="all" href="{{ site.url }}/css/ie7.css"><![endif]-->
+
+  <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+  <style type="text/css">
+    #masthead { background-image: url({{ site.url }}/img/mozbrlogo.png); }
+  </style>
+
+</head>

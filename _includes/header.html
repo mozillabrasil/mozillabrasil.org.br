@@ -1,0 +1,17 @@
+<a href="/en-US/" id="tabzilla">mozilla</a>
+  <header id="masthead" role="banner" style="padding-bottom:0!important;">          
+    <hgroup>
+      <h1 id="site-title">{{ site.title }}</h1>
+        <h2 id="site-description">Nós acreditamos na Web aberta!</h2>
+      </hgroup>
+      <nav id="nav-primary" class="menu-main-menu-container">
+        <ul id="menu-main-menu" class="menu">
+          {% for link in site.links %}
+            <li>
+              {% if link.external %}<a href="{{ link.url }}">{{ link.title }}</a>
+              {% else %}<a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>{% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      </nav>
+  </header>
