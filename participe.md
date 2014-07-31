@@ -4,6 +4,15 @@ title: Participe
 permalink: /participe/
 ---
 
+<style>
+.page img {
+  background:#fff;
+  padding:5px;
+  border:1px solid #eee;
+  box-shadow: 0 0 1px #ddd;
+}
+</style>
+
 Você pode [construir uma web melhor](http://www.mozilla.org/about/mission.html) contribuindo com a Mozilla. Não é necessário ser um guru do C++ (e nem saber o que isso significa!) ou gastar um montão de tempo! Dê uma olhada nas maneiras de ajudar listadas abaixo e fique a vontade para nos perguntar o que quiser!
 
 # Comunidade Mozilla Brasil
@@ -18,19 +27,19 @@ Você pode [construir uma web melhor](http://www.mozilla.org/about/mission.html)
 
 ## Facebook
 
-* Mozilla Brasil: <http://www.facebook.com/mozillabrasil>
+* Mozilla Brasil: <https://www.facebook.com/mozillabrasil>
 
-* Firefox Brasil: <http://www.facebook.com/firefoxbrasil>
+* Firefox Brasil: <https://www.facebook.com/firefoxbrasil>
 
 * Thunderbird Brasil: <https://www.facebook.com/thunderbirdbrasil>
 
 ## Twitter
 
-* Twitter Mozilla Brasil: <http://www.twitter.com/mozillabrasil>
+* Twitter Mozilla Brasil: <https://www.twitter.com/mozillabrasil>
 
 ## Canais de IRC
 
-Canais de comunicação da comunidade Mozilla Brasil no IRC irc.mozilla.org
+Canais de comunicação da comunidade Mozilla Brasil no IRC irc.mozilla.org(mais informações sobre a rede MozNet e como se conectar você pode encontrar na [página da Wiki](https://wiki.mozilla.org/IRC))
 
 <ul>
 <li><a href="irc://irc.mozilla.org/mozilla-br" rel="nofollow">#mozilla-br</a></li>
@@ -46,7 +55,7 @@ Canais de comunicação da comunidade Mozilla Brasil no IRC irc.mozilla.org
 
 Página wiki na infra oficial da Mozilla para organização dos trabalhos realizados de forma colaborativa
 
-* Wiki Mozilla Brasil: <http://wiki.mozilla.org/Brasil>
+* Wiki Mozilla Brasil: <https://wiki.mozilla.org/Brasil>
 
 # Áreas e Projetos
 
@@ -54,7 +63,7 @@ Página wiki na infra oficial da Mozilla para organização dos trabalhos realiz
     <img class="alignleft" alt="Ajudando Usuários" src="{{ site.url }}/img/contribute/sumo.png" height="46" width="50">
     <strong>Ajudando Usuários</strong>
 </p>
-<p>Se interessa em ajudar outras pessoas a tirar o máximo proveito do Firefox e de outros projetos da Mozilla? Nosso setor de suporte conta com colaboradores entusiasmados como você! Leia mais sobre <a href="https://support.mozilla.com/kb/superheroes-wanted">dar suporte ao Firefox</a>, <a href="https://wiki.mozilla.org/Thunderbird/Support/GetSatisfaction/README">Thunderbird</a> e <a href="http://www.mozilla.org/support/">outros projetos da Mozilla</a>. Você pode também juntar-se ao nosso <a href="https://support.mozilla.com/army-of-awesome">Exército de Incríveis</a> ajudando usuários no Twitter.</p>
+<p>Se interessa em ajudar outras pessoas a tirar o máximo proveito do Firefox e de outros projetos da Mozilla? Nosso setor de suporte conta com colaboradores entusiasmados como você! Leia mais sobre <a href="https://support.mozilla.com/kb/superheroes-wanted">dar suporte ao Firefox</a>, <a href="https://wiki.mozilla.org/Thunderbird/Support/GetSatisfaction/README">Thunderbird</a> e <a href="https://www.mozilla.org/support/">outros projetos da Mozilla</a>. Você pode também juntar-se ao nosso <a href="https://support.mozilla.com/army-of-awesome">Exército de Incríveis</a> ajudando usuários no Twitter.</p>
 
 <p>
     <img class="alignleft" alt="Traduzindo" src="{{ site.url }}/img/contribute/localization.png" height="49" width="50">
@@ -115,3 +124,7 @@ Página wiki na infra oficial da Mozilla para organização dos trabalhos realiz
     <strong>Documentação para Desenvolvedores</strong>
 </p>
 <p>A Mozilla Developer Network (<a title="MDN" href="https://developer.mozilla.org/">MDN</a>) é a conexão para informações sobre as tecnologias da Mozilla. Ajude-nos a <a href="https://developer.mozilla.org/Project:en/How_to_Help">melhorar nossa documentação</a> escrevendo novos conteúdos, corrigindo materiais já prontos ou traduzindo os conteúdos para novos idiomas.</p>
+
+<div style="border-top:1px solid #ddd;width:100%;padding:5px;"></div>
+
+Precisa de ajuda para escolher a área em que deseja colaborar e como iniciar? [utilize esta ferramenta :)](http://whatcanidoformozilla.org/). Ah, e não esqueça de se inscrever na nossa lista de discussão e fazer sua apresentação lá!
