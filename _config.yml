@@ -4,6 +4,7 @@ description: "Site oficial da comunidade Mozilla Brasil - Nós acreditamos na We
 url: "http://mozillabrasil.org.br"
 timezone: America/Sao_Paulo
 encoding: utf-8
+keep_files: ["events"]
 
 markdown: kramdown
 permalink: pretty
