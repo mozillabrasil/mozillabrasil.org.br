@@ -8,7 +8,7 @@ permalink: /sobre/
 
 Somos um grupo de pessoas interessadas em contribuir com a [missão da Mozilla](http://www.mozilla.org/about/mission.html) no Brasil.
 
-Não temos a pretensão de representar a Fundação ou a Corporação [Mozilla](https://www.mozilla.org/?utm_source=wordpress%20blog&utm_medium=content%20link&utm_campaign=promote%20mdn). Somos apenas uma comunidade de entusiastas  alinhados com os valores do projeto e tentando levar estes valores de abertura, liberdade e inovação adiante.
+Não temos a pretensão de representar a Fundação ou a Corporação [Mozilla](https://www.mozilla.org/?utm_source=wordpress%20blog&utm_medium=content%20link&utm_campaign=promote%20mdn). Somos apenas uma comunidade de entusiastas alinhados com os valores do projeto e tentando levar estes valores de abertura, liberdade e inovação adiante.
 
 Este é um grupo feito por pessoas que já contribuem ha algum tempo com o projeto e que acreditam que existe espaço para novos esforços de colaboração.
 
@@ -44,4 +44,4 @@ Se você está disposto a colocar a mão na massa, deixe um comentário abaixo d
 
 ## Junte-se a nós
 
-Se inscreva na lista de discussão [https://lists.mozilla.org/listinfo/community-brasil](https://lists.mozilla.org/listinfo/community-brasil) e participe das nossas discussões, idéias e projetos!
+Junte-se a nossas discussões, ideias e projetos no [Discourse da Mozilla Brasil](https://discourse.mozilla-community.org/c/mozilla-brasil).
