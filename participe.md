@@ -13,29 +13,29 @@ permalink: /participe/
 }
 </style>
 
-Você pode [construir uma web melhor](http://www.mozilla.org/about/mission.html) contribuindo com a Mozilla. Não é necessário ser um guru do C++ (e nem saber o que isso significa!) ou gastar um montão de tempo! Dê uma olhada nas maneiras de ajudar listadas abaixo e fique a vontade para nos perguntar o que quiser!
+Você pode [construir uma web melhor](https://www.mozilla.org/pt-BR/mission/) contribuindo com a Mozilla. Não é necessário ser um guru do C++ (e nem saber o que isso significa!) ou gastar um montão de tempo! Dê uma olhada nas maneiras de ajudar e fique a vontade para nos perguntar o que quiser!
 
 # Comunidade Mozilla Brasil
 
-## Listas de discussão
+## Junte-se a nossas discussões
 
-* Lista geral da comunidade Brasileira: <https://lists.mozilla.org/listinfo/community-brasil>
+* Discourse Mozilla Brasil: <https://discourse.mozilla-community.org/c/mozilla-brasil>
 
-* Lista sobre desenvolvimento/extensões: <https://lists.mozilla.org/listinfo/dev-extensions-br>
+## Mozilla Brasil nas Redes Sociais
 
-* Lista do projeto de tradução de sites/documentação/interfaces: <https://lists.mozilla.org/listinfo/dev-l10n-pt-br>
-
-## Facebook
+* Twitter Mozilla Brasil: <https://www.twitter.com/mozillabrasil>
 
 * Mozilla Brasil: <https://www.facebook.com/mozillabrasil>
+
+## Firefox e Thunderbird Brasil nas Redes Sociais
 
 * Firefox Brasil: <https://www.facebook.com/firefoxbrasil>
 
 * Thunderbird Brasil: <https://www.facebook.com/thunderbirdbrasil>
 
-## Twitter
+## Grupo no Telegram
 
-* Twitter Mozilla Brasil: <https://www.twitter.com/mozillabrasil>
+* Mozilla Brasil : <https://telegram.me/joinchat/ASpmewcYA-xPegW2kTecxg>
 
 ## Canais de IRC
 
@@ -87,25 +87,13 @@ Página wiki na infra oficial da Mozilla para organização dos trabalhos realiz
     <img class="alignleft" alt="Marketing e Evangelismo" src="{{ site.url }}/img/contribute/firefox.png" height="46" width="50">
     <strong>Marketing e Evangelismo</strong>
 </p>
-<p>Ajude-nos a divulgar pelo mundo como o Firefox e os demais projetos da Mozilla estão construindo uma web melhor! Você pode promover a Mozilla para <a href="http://guides.mozilla.org/Marketing">usuários</a>, <a href="https://wiki.mozilla.org/Evangelism">desenvolvedores </a>e <a href="http://studentreps.mozilla.org/">estudantes</a>!<strong> </strong></p>
-
-<p>
-    <img class="alignleft" alt="Mozilla Drumbeat" alt="" src="{{ site.url }}/img/contribute/drumbeat.png" height="50" width="50">
-    <strong>Drumbeat</strong>
-</p>
-<p>O Mozilla Drumbeat é uma comunidade global de pessoas que usam a internet diariamente trabalhando juntas para construir uma web melhor e um mundo mais livre! Comece ajudando o Drumbeat dando <a href="http://www.drumbeat.org/projects">ideias de projetos</a>. Desenvolvedores, designers e escritores também estão convidados a nos ajudar a <a href="https://wiki.mozilla.org/Drumbeat/website">melhorar o site do Drumbeat</a>.</p>
+<p>Ajude-nos a divulgar pelo mundo como o Firefox e os demais projetos da Mozilla estão construindo uma web melhor! Você pode promover a Mozilla para <a href="http://guides.mozilla.org/Marketing">usuários</a>, <a href="https://wiki.mozilla.org/Evangelism">desenvolvedores </a>e <a href="https://www.mozilla.org/en-US/contribute/studentambassadors/">estudantes</a>!<strong> </strong></p>
 
 <p>
     <img class="alignleft" alt="Add-ons" src="{{ site.url }}/img/contribute/addons.png" height="46" width="50">
     <strong>Add-ons</strong>
 </p>
 <p>O Firefox e outras aplicações com base Mozilla tem um poderoso sistema de extensões que te permite fazer pequenas ou grandes adições nos seus programas. Se você ainda não conhece muito essa tecnologia, aprenda como <a href="https://addons.mozilla.org/en-US/developers/docs/getting-started">desenvolver um complemento</a>. Para desenvolvedores experientes, descubra como <a href="https://wiki.mozilla.org/AMO:Editors/Applying">tornar-se um editor AMO</a>.</p>
-
-<p>
-    <img class="alignleft" alt="Mozilla Mirror Network" src="{{ site.url }}/img/contribute/mirrors.png" height="53" width="50">
-    <strong>Mirrors Mozilla</strong>
-</p>
-<p>Um dos maiores bens da Mozilla é sua rede de “mirrors” (servidores espelhos). Ela permite disponibilizar aplicativos, complementos e outros downloads para centenas de milhões de pessoas — tudo com espaço e banda de servidores doados. Você pode ajudar a fortificar esta rede, saiba <a href="http://www.mozilla.org/community/mirroring.html">como se tornar um mirror Mozilla</a>.</p>
 
 <p>
     <img class="alignleft" alt="Mozilla Creative Challenge" src="{{ site.url }}/img/contribute/creativecollective.png" height="50" width="50">
@@ -117,7 +105,7 @@ Página wiki na infra oficial da Mozilla para organização dos trabalhos realiz
     <img class="alignleft" alt="Mozilla Test Pilot" src="{{ site.url }}/img/contribute/testpilot.png" height="52" width="50">
     <strong>Design de Interfaces e Usabilidade</strong>
 </p>
-<p>Conheça o <a href="https://testpilot.mozillalabs.com/">Test Pilot</a> para experimentar as melhores e mais recentes ideias de design de interfaces, participe de um <a href="http://design-challenge.mozillalabs.com/">desafio de Criação Coletiva</a> para inspirar futuros rumos de design do Firefox, do projeto Mozilla e da web como um todo ou <a href="http://groups.google.com/group/mozilla.dev.usability/topics">venha falar conosco sobre problemas de usabilidade</a>.</p>
+<p>Conheça o <a href="https://testpilot.firefox.com/">Test Pilot</a> para experimentar as melhores e mais recentes ideias de design de interfaces, participe de um <a href="http://design-challenge.mozillalabs.com/">desafio de Criação Coletiva</a> para inspirar futuros rumos de design do Firefox, do projeto Mozilla e da web como um todo ou <a href="http://groups.google.com/group/mozilla.dev.usability/topics">venha falar conosco sobre problemas de usabilidade</a>.</p>
 
 <p>
     <img class="alignleft" alt="Mozilla MDN" src="{{ site.url }}/img/contribute/mdn.png" height="50" width="50">
@@ -127,4 +115,4 @@ Página wiki na infra oficial da Mozilla para organização dos trabalhos realiz
 
 <div style="border-top:1px solid #ddd;width:100%;padding:5px;"></div>
 
-Precisa de ajuda para escolher a área em que deseja colaborar e como iniciar? [utilize esta ferramenta :)](http://whatcanidoformozilla.org/). Ah, e não esqueça de se inscrever na nossa lista de discussão e fazer sua apresentação lá!
+Precisa de ajuda para escolher a área em que deseja colaborar e como iniciar? [utilize esta ferramenta :)](http://whatcanidoformozilla.org/). Ah, e não esqueça de se cadastrar no Discourse, acompanhar a categoria Mozilla Brasil e fazer sua apresentação lá!
