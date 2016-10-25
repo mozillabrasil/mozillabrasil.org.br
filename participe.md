@@ -35,7 +35,7 @@ Você pode [construir uma web melhor](https://www.mozilla.org/pt-BR/mission/) co
 
 ## Grupo no Telegram
 
-* Mozilla Brasil : <https://telegram.me/joinchat/ASpmewcYA-xPegW2kTecxg>
+* Mozilla Brasil : <https://telegram.me/sumobrasil>
 
 ## Canais de IRC
 
