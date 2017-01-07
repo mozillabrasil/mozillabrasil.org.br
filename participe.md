@@ -81,8 +81,7 @@ A missão da Mozilla é garantir que a Internet seja um recurso público global,
     <img class="alignleft" alt="Mozilla Activate" src="{{ site.url }}/img/contribute/activate.png" height="46" width="50">
     <strong>Mozilla Activate</strong>
 </p>
-<p>
-Em breve...</p>
+<p> <b>Mozilla Activate</b> é uma campanha para Mozillians do mundo inteiro terem impacto em áreas chave da missão Mozilla. Você pode aprender mais sobre cada projeto e organizar atividades incríveis! <a href="https://activate.mozilla.community/pt/">Conheça todas as atividades!</a></p>
 
 <div style="border-top:1px solid #ddd;width:100%;padding:5px;"></div>
 
