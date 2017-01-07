@@ -80,6 +80,14 @@ Os <b>Mozilla Clubs</b> são uma rede global de membros da comunidade que compar
 <p>
 A missão da Mozilla é garantir que a Internet seja um recurso público global, aberto e acessível a todos. A <b>Mozilla University & College Club</b> é um grupo de <b>estudantes</b> com paixão por tecnologia que se reúnem regularmente para avançar nesta missão por meio do <b>desenvolvimento e inovação em projetos de código aberto que mantêm a web aberta</b>. <a href="https://wiki.mozilla.org/Brasil/Mozilla_Leadership_Network/Mozilla_Campus_Clubs">Comece organizando um clube em sua universidade hoje!</a></p>
 
+# Campanhas
+<p>
+    <img class="alignleft" alt="Mozilla Activate" src="{{ site.url }}/img/contribute/activate.png" height="46" width="50">
+    <strong>Mozilla Activate</strong>
+</p>
+<p>
+Em breve...</p>
+
 <div style="border-top:1px solid #ddd;width:100%;padding:5px;"></div>
 
 ### Código de Conduta
