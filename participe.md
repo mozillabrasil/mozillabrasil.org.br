@@ -19,7 +19,7 @@ Você pode [construir uma web melhor](https://www.mozilla.org/pt-BR/mission/) co
 
 ## Junte-se a nossas discussões
 
-* [Discourse Mozilla Brasil](https://discourse.mozilla-community.org/c/mozilla-brasil)
+* [Fórum da Mozilla Brasil](https://discourse.mozilla-community.org/c/mozilla-brasil)
 
 ## Mozilla Brasil nas Redes Sociais
 
@@ -46,17 +46,8 @@ Canais de comunicação da comunidade Mozilla Brasil no IRC irc.mozilla.org(mais
 <li><a href="irc://irc.mozilla.org/mozilla-br" rel="nofollow">#mozilla-br</a></li>
 <li><a href="irc://irc.mozilla.org/firefox-br" rel="nofollow">#firefox-br</a></li>
 <li><a href="irc://irc.mozilla.org/thunderbird-br" rel="nofollow">#thunderbird-br</a></li>
-<li><a href="irc://irc.mozilla.org/webmaker-br" rel="nofollow">#webmaker-br</a></li>
-<li><a href="irc://irc.mozilla.org/openwebapps-br" rel="nofollow">#openwebapps-br</a></li>
-<li><a href="irc://irc.mozilla.org/developers-br" rel="nofollow">#developers-br</a></li>
 <li><a href="irc://irc.mozilla.org/sumo-br" rel="nofollow">#sumo-br</a></li>
 </ul>
-
-## Wiki
-
-Página wiki na infra oficial da Mozilla para organização dos trabalhos realizados de forma colaborativa
-
-* Wiki Mozilla Brasil: <https://wiki.mozilla.org/Brasil>
 
 # Áreas e Projetos
 
