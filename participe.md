@@ -67,14 +67,14 @@ Os produtos e projetos da Mozilla são utilizados diariamente por <b>milhões de
 
 # Programas
 <p>
-    <img class="alignleft" alt="Mozilla Clubs" src="{{ site.url }}/img/contribute/800px-L10n_logo.png" height="46" width="50">
+    <img class="alignleft" alt="Mozilla Clubs" src="{{ site.url }}/img/contribute/mozillaclubs.jpg" height="46" width="50">
     <strong>Mozilla Clubs</strong>
 </p>
 <p>
-Os <b>Mozilla Clubs</b> são uma rede global de membros da comunidade que compartilham a missão da Mozilla de garantir que a Internet seja um recurso público global, aberto e acessível a todos. A Mozilla oferece <b>treinamento e recursos gratuitos</b> para ajudar os clubes a serem um sucesso e crescer a <b>alfabetização digital em espaços comunitários</b>. <a href="https://wiki.mozilla.org/Brasil/Mozilla_Leadership_Network/Mozilla_Campus_Clubs">Comece organizando um clube em seu bairro, escola, organização ou espaço comunitário!</a></p>
+Os <b>Mozilla Clubs</b> são uma rede global de membros da comunidade que compartilham a missão da Mozilla de garantir que a Internet seja um recurso público global, aberto e acessível a todos. A Mozilla oferece <b>treinamento e recursos gratuitos</b> para ajudar os clubes a serem um sucesso e crescer a <b>alfabetização digital em espaços comunitários</b>. <a href="https://wiki.mozilla.org/Brasil/Mozilla_Leadership_Network/Mozilla_Clubs">Comece organizando um clube em seu bairro, escola, organização ou espaço comunitário!</a></p>
 
 <p>
-    <img class="alignleft" alt="Mozilla Campus Clubs" src="{{ site.url }}/img/contribute/800px-L10n_logo.png" height="46" width="50">
+    <img class="alignleft" alt="Mozilla Campus Clubs" src="{{ site.url }}/img/contribute/mozillacampusclubs.jpg" height="46" width="50">
     <strong>Mozilla Campus Clubs</strong>
 </p>
 <p>
