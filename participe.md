@@ -19,24 +19,24 @@ Você pode [construir uma web melhor](https://www.mozilla.org/pt-BR/mission/) co
 
 ## Junte-se a nossas discussões
 
-* Discourse Mozilla Brasil: <https://discourse.mozilla-community.org/c/mozilla-brasil>
+* [Discourse Mozilla Brasil](https://discourse.mozilla-community.org/c/mozilla-brasil)
 
 ## Mozilla Brasil nas Redes Sociais
 
-* Twitter Mozilla Brasil: <https://www.twitter.com/mozillabrasil>
+* [Twitter Mozilla Brasil](https://www.twitter.com/mozillabrasil)
 
-* Mozilla Brasil: <https://www.facebook.com/mozillabrasil>
+* [Mozilla Brasil](https://www.facebook.com/mozillabrasil)
 
 ## Firefox e Thunderbird Brasil nas Redes Sociais
 
-* Firefox Brasil: <https://www.facebook.com/firefoxbrasil>
+* [Firefox Brasil](https://www.facebook.com/firefoxbrasil)
 
-* Thunderbird Brasil: <https://www.facebook.com/thunderbirdbrasil>
+* [Thunderbird Brasil:](https://www.facebook.com/thunderbirdbrasil)
 
 ## Grupo no Telegram
 
-* Mozilla Brasil : <https://telegram.me/mozillabr>
-* Mozilla Suporte: <https://telegram.me/sumobrasil>
+* [Mozilla Brasil](https://telegram.me/mozillabr)
+* [Mozilla Suporte](https://telegram.me/sumobrasil)
 
 ## Canais de IRC
 
