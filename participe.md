@@ -13,7 +13,8 @@ permalink: /participe/
 }
 </style>
 
-Você pode [construir uma web melhor](https://www.mozilla.org/pt-BR/mission/) contribuindo com a Mozilla. Não é necessário ser um guru do C++ (e nem saber o que isso significa!) ou gastar um montão de tempo! Dê uma olhada nas maneiras de ajudar e fique a vontade para nos perguntar o que quiser!
+<b>Ser voluntário na Mozilla...</b><br>
+É mais do que ajudar... É <b>aprender, colaborar e compartilhar habilidades</b> com uma comunidade mundial de Mozillians (programadores, organizadores, ativistas e muitos outros) que trabalham para fazer da Web um lugar melhor para todos nós.
 
 # Comunidade Mozilla Brasil
 
@@ -27,16 +28,11 @@ Você pode [construir uma web melhor](https://www.mozilla.org/pt-BR/mission/) co
 
 * [Mozilla Brasil](https://www.facebook.com/mozillabrasil)
 
-## Firefox e Thunderbird Brasil nas Redes Sociais
-
-* [Firefox Brasil](https://www.facebook.com/firefoxbrasil)
-
-* [Thunderbird Brasil:](https://www.facebook.com/thunderbirdbrasil)
-
 ## Grupo no Telegram
 
 * [Mozilla Brasil](https://telegram.me/mozillabr)
 * [Mozilla Suporte](https://telegram.me/sumobrasil)
+* [Outros grupos](https://wiki.mozilla.org/Brasil/Grupos_de_Telegram)
 
 ## Canais de IRC
 
