@@ -63,48 +63,6 @@ Canais de comunicação da comunidade Mozilla Brasil no IRC irc.mozilla.org(mais
 </p>
 <p>Contribua com a Mozilla tornando Firefox,&nbsp; Thunderbird&nbsp; e demais projetos <a href="https://wiki.mozilla.org/Brasil/L10n-pt-BR">disponíveis em seu idioma</a>! Ajude-nos também a comunicar ao mundo sobre como a Mozilla está construindo uma Internet melhor <a href="https://wiki.mozilla.org/L10n:Web_parts">traduzindo conteúdos</a> de nossos sites.</p>
 
-<p>
-    <img class="alignleft" alt="Testes e Controle de Qualidade" src="{{ site.url }}/img/contribute/qmo.png" height="49" width="50">
-    <strong>Testes e Controle de Qualidade</strong>
-</p>
-<p>CQ é uma das maneiras mais fáceis de começar a ajudar a Mozilla e se familiarizar com nossos códigos e ferramentas. Ajude-nos a <a href="https://quality.mozilla.org/teams/desktop-firefox/">detonar bugs no Firefox</a>, <a href="https://quality.mozilla.org/teams/web-qa/">teste os sites da Mozilla</a> ou veja mais sobre <a href="https://quality.mozilla.org/">outras oportunidades de teste</a>.</p>
-
-<p>
-    <img class="alignleft" alt="Desenvolvendo" src="{{ site.url }}/img/contribute/dinohead.png" height="40" width="50">
-    <strong>Desenvolvendo</strong>
-</p>
-<p><a href="https://developer.mozilla.org/En/Developer_Guide">Desenvolvedores podem ajudar</a> a Mozilla adicionando funcionalidades, tornando nossa tecnologia menor e mais rápida e facilitando o desenvolvimento para outras pessoas. Você pode encontrar muitos desenvolvedores no <a href="http://irc.mozilla.org/">IRC</a>, então, pare e pergunte para aprender! Nossos sites estão <a href="http://blog.mozilla.com/webdev/get-involved/">abertos para ninjas da web</a> hackearem!</p>
-
-<p>
-    <img class="alignleft" alt="Marketing e Evangelismo" src="{{ site.url }}/img/contribute/firefox.png" height="46" width="50">
-    <strong>Marketing e Evangelismo</strong>
-</p>
-<p>Ajude-nos a divulgar pelo mundo como o Firefox e os demais projetos da Mozilla estão construindo uma web melhor! Você pode promover a Mozilla para <a href="http://guides.mozilla.org/Marketing">usuários</a>, <a href="https://wiki.mozilla.org/Evangelism">desenvolvedores </a>e <a href="https://www.mozilla.org/en-US/contribute/studentambassadors/">estudantes</a>!<strong> </strong></p>
-
-<p>
-    <img class="alignleft" alt="Add-ons" src="{{ site.url }}/img/contribute/addons.png" height="46" width="50">
-    <strong>Add-ons</strong>
-</p>
-<p>O Firefox e outras aplicações com base Mozilla tem um poderoso sistema de extensões que te permite fazer pequenas ou grandes adições nos seus programas. Se você ainda não conhece muito essa tecnologia, aprenda como <a href="https://addons.mozilla.org/en-US/developers/docs/getting-started">desenvolver um complemento</a>. Para desenvolvedores experientes, descubra como <a href="https://wiki.mozilla.org/AMO:Editors/Applying">tornar-se um editor AMO</a>.</p>
-
-<p>
-    <img class="alignleft" alt="Mozilla Creative Challenge" src="{{ site.url }}/img/contribute/creativecollective.png" height="50" width="50">
-    <strong>Design Visual</strong>
-</p>
-<p>Nós acreditamos na força de uma arte bem feita e divulgada, e queremos tornar possível que artistas cubrão a web e as pessoas com designs inspirados na Mozilla. Participe de um dos <a href="http://creative.mozilla.org/challenges">desafios de Criação Coletiva</a> ou <a href="http://communitystore.mozilla.org/upload">adicione um design para camisetas</a> em nossa Community Store.</p>
-
-<p>
-    <img class="alignleft" alt="Mozilla Test Pilot" src="{{ site.url }}/img/contribute/testpilot.png" height="52" width="50">
-    <strong>Design de Interfaces e Usabilidade</strong>
-</p>
-<p>Conheça o <a href="https://testpilot.firefox.com/">Test Pilot</a> para experimentar as melhores e mais recentes ideias de design de interfaces, participe de um <a href="http://design-challenge.mozillalabs.com/">desafio de Criação Coletiva</a> para inspirar futuros rumos de design do Firefox, do projeto Mozilla e da web como um todo ou <a href="http://groups.google.com/group/mozilla.dev.usability/topics">venha falar conosco sobre problemas de usabilidade</a>.</p>
-
-<p>
-    <img class="alignleft" alt="Mozilla MDN" src="{{ site.url }}/img/contribute/mdn.png" height="50" width="50">
-    <strong>Documentação para Desenvolvedores</strong>
-</p>
-<p>A Mozilla Developer Network (<a title="MDN" href="https://developer.mozilla.org/">MDN</a>) é a conexão para informações sobre as tecnologias da Mozilla. Ajude-nos a <a href="https://developer.mozilla.org/Project:en/How_to_Help">melhorar nossa documentação</a> escrevendo novos conteúdos, corrigindo materiais já prontos ou traduzindo os conteúdos para novos idiomas.</p>
-
 <div style="border-top:1px solid #ddd;width:100%;padding:5px;"></div>
 
 Precisa de ajuda para escolher a área em que deseja colaborar e como iniciar? [utilize esta ferramenta :)](http://whatcanidoformozilla.org/). Ah, e não esqueça de se cadastrar no Discourse, acompanhar a categoria Mozilla Brasil e fazer sua apresentação lá!
