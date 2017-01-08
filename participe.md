@@ -26,7 +26,7 @@ permalink: /participe/
 
 * [Twitter Mozilla Brasil](https://www.twitter.com/mozillabrasil)
 
-* [Mozilla Brasil](https://www.facebook.com/mozillabrasil)
+* [Facebook Mozilla Brasil](https://www.facebook.com/mozillabrasil)
 
 ## Grupo no Telegram
 
